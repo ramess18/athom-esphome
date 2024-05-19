@@ -124,12 +124,12 @@ binary_sensor:
     id: occupancy
     device_class: occupancy
     lambda: |-
-      if ( id(mmwave).state or id(pir).state) {
+      if ( id(mmwave).state and id(pir).state) {
         return true;
-      } 
-      else if (id(mmwave).state == 0 and id(pir).state == 0) {
+      }
+      else if (id(mmwave).state == 0) {
         return false;
-      } 
+      }
       else {
         return id(occupancy).state;
       }
