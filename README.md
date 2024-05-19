@@ -14,7 +14,7 @@ Buy from [AliExpress](https://www.aliexpress.com/item/1005005772833515.html?aff_
 
 - now stores mmWave configuration values as it is supposed to
 - add PIR delay in substitutions to configure no occupancy delay on PIR motion and Occupancy sensors
-- change Occupancy sensor logic to make sense
+- Occupancy sensor logic is the same as Athom's
 - smaller steps for configuration options allowing finer grained configurations
 - sliders with too many options switched to number boxes
 - remove on trigger delay of 50ms for even more responsive triggers (no idea why they're set in the first place)
