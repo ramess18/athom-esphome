@@ -1,6 +1,4 @@
-# Blakadder's ESPHome Configurations
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S650JEK) &emsp; <a href="https://paypal.me/tasmotatemplates"><img src="https://img.shields.io/static/v1?logo=paypal&label=&message=Donate via PayPal&color=slategrey"></a>
+# Modified Blakadder's ESPHome Configuration
 
 ## [athom_ps01.yaml](athom_ps01.yaml)
 
