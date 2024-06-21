@@ -23,7 +23,7 @@ logger:
 
 api:
 
-ota:
+# ota:
 
 mdns:
   disabled: false
